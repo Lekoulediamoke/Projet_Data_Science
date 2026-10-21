@@ -1,0 +1,213 @@
+age,imc,enfants,sexe,fumeur,region,frais
+30,25.6,4.0,femme,1,nord-est,19537.68
+53 ans,44.6,3.0,femme,oui,nord-ouest,
+42,34.2,3.0,homme,non,nord-ouest,
+21,19.3,2.0,femme,oui,sud-ouest,28454.46
+28,27.4,2.0,homme,non,nord-ouest,15618.98
+48,36.8,1.0,homme,non,nord-est,28839.94
+28,23.6,2.0,homme,non,sud-est,18321.38
+230,30.9,2.0,homme,non,nord-ouest,28657.84
+64,,0.0,homme,Oui,nord-ouest,24456.28
+53,31.2,1.0,homme,non,sud-est,26283.79
+25,31.3,1.0,femme,non,sud-est,18533.08
+31,24.1,4.0,homme,non,nord-ouest,20324.97
+54,"28,1",4.0,femme,non,sud-est,28527.91
+38,23.2,3.0,Femme,non,nord-ouest,20796.59
+36,29.1,3.0,femme,non,nord-ouest,21419.01
+37,"29,5",4.0,homme,non,sud-ouest,20385.65
+5,36.7,4.0,femme,non,sud-est,16153.07
+,32.4,2.0,femme,non,sud-ouest,19962.97
+20,28.9,2.0,femme,non,nord-est,"17,604.36 €"
+150,28.1,4.0,homme,non,sud-ouest,29511.44
+50,28.5,0.0,homme,non,sud-ouest,"22,201.61 €"
+41,32.2,1.0,homme,non,nord-est,25230.87
+44 ans,33.9,0.0,femme,non,sud-ouest,22906.37
+34,28.8,0.0,homme,non,sud-ouest,22454.04
+54,31.1,3.0,homme,oui,nord-est,50191.99
+29,32.7,3.0,homme,non,sud-est,21996.63
+57,23.9,2.0,homme,non,sud-est,24280.24
+41,24.4,2.0,femme,non,sud-est,21794.11
+60,34.2,2.0,homme,non,nord-est,37796.56
+41,34.6,3.0,homme,non,nord-est,24023.17
+38,29.2,3.0,homme,oui,  Nord-Est,"36,117.60 €"
+22,25.3,,femme,non,sud-est,15722.64
+43,37.3,4.0,femme,oui,sud-est,44982.68
+52,32.2,2.0,homme,oui,nord-est,"47,193.67 €"
+,24.1,4.0,femme,non,nord-est,21381.69
+57,31.2,3.0,homme,non,nord-ouest,30187.51
+50,35.5,2.0,femme,non,nord-est,"28,643.10 €"
+,33.7,1.0,homme,oui,sud-ouest,47856.36
+37,40.6,0.0,femme,non,nord-ouest,23823.17
+48,28.1,0.0,homme,oui,sud-est,47822.68
+21 ans,30.5,2.0,femme,non,sud-est,"16,723.71 €"
+38,36.5,2.0,femme,non,sud-est,26132.64
+44,34.6,4.0,homme,non,sud-ouest,"24,154.83 €"
+51,27.0,0.0,femme,oui,nord-ouest,37489.88
+33,4.2,3.0,homme,non,,"16,949.47 €"
+41,21.6,3.0,femme,non,sud-ouest,17971.32
+38,32.3,3.0,femme,non,sud-ouest,18595.78
+55,31.6,2.0,femme,non,nord-ouest,"29,192.22 €"
+22,30.0,2.0,femme,non,nord-ouest,18855.31
+44,28.6,0.0,homme,non,sud-ouest,22771.1
+50,27.7,0.0,femme,non,nord-ouest,23645.73
+39,24.8,0.0,homme,non,SUD-OUEST ,18050.58
+60,28.1,4.0,femme,non,nord-est,21754.16
+,28.9,3.0,femme,oui,nord-est,43727.67
+,"24,4",2.0,femme,non,nord-est,15802.5
+33,25.9,4.0,femme,non,sud-ouest,21116.42
+47,27.9,0.0,homme,oui,sud-est,40039.48
+22,28.3,1.0,homme,non,sud-ouest,16036.84
+26,29.8,3.0,femme,non,SUD-OUEST ,17470.75
+,29.5,2.0,femme,non,sud-est,22213.69
+63,"31,3",3.0,femme,non,nord-est,28727.33
+33,30.8,2.0,homme,oui,sud-ouest,41638.66
+61,28.2,0.0,homme,NON,sud-est,49205.92
+64,21.2,1.0,femme,non,sud_est,24361.53
+63,37.4,,femme,non,nord-est,27470.86
+54,19.7,3.0,femme,non,nord-ouest,"26,644.84 €"
+49,26.9,4.0,homme,non,sud-ouest,27962.57
+50,32.1,0.0,homme,oui,nord-est,40643.76
+20,,1.0,homme,non,sud-ouest,19487.14
+39,40.5,1.0,femme,non,nord-est,28511.62
+25,95.0,0.0,femme,oui,nord-ouest,"44,172.46 €"
+35,"30,8",1.0,homme,non,sud-est,22340.44
+53,31.1,1.0,homme,non,sud-ouest,21248.95
+27,29.2,4.0,femme,non,sud-est,22352.95
+24,28.0,2.0,femme,non,nord-ouest,17316.05
+51,37.9,4.0,femme,0,sud-est,26667.91
+62,36.0,0.0,femme,non,Nord Ouest,33150.62
+37,31.2,2.0,femme,non,sud-est,22478.08
+47,33.2,1.0,homme,non,nord-ouest,23899.74
+63,21.4,1.0,homme,non,nord-est,20919.05
+27,25.2,2.0,femme,oui,nord-ouest,34062.72
+35,27.6,0.0,F,non,sud-est,"16,803.42 €"
+64,29.3,4.0,femme,oui,nord-ouest,49424.83
+59,33.2,2.0,homme,oui,sud-est,45825.8
+31,31.7,3.0,homme,oui,sud-ouest,45702.18
+40,25.8,2.0,homme,oui,nord-est,33234.9
+44,25.7,4.0,homme,non,nord-ouest,20454.73
+35,28.8,4.0,femme,non,sud-est,18138.9
+44,27.0,4.0,homme,non,sud-est,21233.5
+49,25.1,4.0,homme,non,nord-ouest,25548.64
+44,37.9,0.0,homme,oui,nord-ouest,38559.1
+47,29.5,4.0,femme,non,nord-est,24281.45
+55,31.7,4.0,homme,non,Nord Ouest,23926.69
+60,26.2,1.0,femme,non,sud-ouest,25354.24
+51,23.9,3.0,femme,oui,sud-ouest,38308.02
+39,23.4,3.0,femme,non,nord-est,20385.74
+55,,2.0,homme,non,nord-est,25216.32
+,30.8,0.0,femme,oui,sud-ouest,45489.72
+54 ans,25.5,2.0,femme,non,sud-ouest,23910.81
+,36.5,0.0,Femme,non,nord-est,19024.77
+41,30.2,1.0,homme,non,sud-ouest,20874.76
+41,34.6,3.0,homme,non,nord-est,24023.17
+49,23.1,3.0,femme,non,nord-est,25339.18
+54,"26,4",3.0,homme,oui,nord-ouest,46352.59
+52,30.7,2.0,femme,non,nord-est,30722.16
+38,29.2,4.0,femme,1,nord-ouest,23429.08
+58,22.6,3.0,homme,non,sud-ouest,23574.02
+57,38.6,3.0,homme,non,sud-est,31502.85
+50,21.3,4.0,femme,non,nord-ouest,22560.82
+37,28.7,0.0,Homme,non,nord-ouest,23460.92
+35,25.2,4.0,homme,non,nord-ouest,25571.07
+22,32.0,,homme,oui,sud-ouest,37946.41
+56,31.8,2.0,homme,oui,sud-ouest,42807.38
+57,30.0,0.0,femme,non,sud-ouest,"25,926.68 €"
+19,31.8,0.0,femme,non,nord-est,5344.76
+45,42.6,1.0,femme,non,SUD-OUEST ,26739.76
+,24.1,4.0,femme,non,nord-est,21381.69
+44,,3.0,femme,non,nord-est,25928.02
+41,"38,0",3.0,homme,non,sud-ouest,22614.86
+54 ans,28.3,2.0,femme,non,nord-est,23316.81
+32,"30,3",4.0,femme,non,nord-est,21193.84
+29,31.3,1.0,female,non,nord-est,21913.07
+57,31.2,3.0,homme,non,nord-ouest,30187.51
+38,38.6,4.0,homme,non,nord-est,26008.86
+28,30.9,2.0,homme,non,sud-ouest,"20,544.90 €"
+39,26.8,2.0,femme,non,nord-ouest,20183.75
+33,32.4,0.0,Homme,non,sud-ouest,20977.52
+24,27.4,1.0,homme,non,sud-est,19897.67
+50,"34,9",4.0,femme,non,,25962.18
+19,40.6,3.0,femme,non,sud-ouest,19920.84
+32,36.0,2.0,femme,non,nord-est,25272.52
+40,31.2,1.0,homme,non,sud-est,26624.83
+20,27.6,3.0,femme,non,nord-ouest,14096.96
+42,30.4,1.0,H,non,nord-ouest,25107.1
+51,31.6,4.0,homme,non,nord-est,"22,742.71 €"
+23,28.8,2.0,homme,non,sud-est,13937.41
+32,37.7,2.0,homme,non,nord-ouest,21089.17
+50,25.5,2.0,femme,0,nord-est,"42,487.10 €"
+44,"24,6",1.0,homme,oui,sud-est,47060.89
+53,24.1,0.0,femme,non,nord-est,22586.73
+38,31.4,3.0,homme,non,nord-ouest,18093.1
+21,34.7,2.0,homme,non,nord-est,16538.21
+47,,0.0,homme,non,nord-est,22341.26
+43 ans,29.7,2.0,femme,non,nord-ouest,21681.21
+39,30.1,4.0,femme,non,sud-ouest,22896.74
+22,32.1,0.0,H,non,sud-ouest,13103.47
+55,29.2,4.0,homme,non,nord-ouest,25424.5
+19,26.7,1.0,femme,non,sud-ouest,"16,848.24 €"
+61,27.5,3.0,homme,non,nord-est,"32,715.18 €"
+59,33.2,2.0,homme,oui,sud-est,45825.8
+25,40.0,0.0,femme,non,sud-ouest,18806.28
+34,19.3,0.0,femme,non,sud-ouest,20380.29
+33,23.6,3.0,femme,oui,sud-est,39839.75
+56,,2.0,femme,non,nord-ouest,24092.91
+36,34.2,2.0,homme,non,sud-ouest,21863.31
+22,28.1,1.0,femme,non,nord-est,17188.65
+38,"28,2",,femme,non,nord-ouest,"21,494.34 €"
+29,24.5,2.0,femme,non,nord-ouest,"17,563.04 €"
+57,31.1,0.0,femme,non,nord-ouest,25831.94
+31,25.6,3.0,femme,non,nord-est,16430.89
+54,33.2,0.0,femme,non,sud_est,26326.75
+24,32.2,4.0,F,non,nord-ouest,
+24,35.0,1.0,homme,oui,nord-est,"36,413.05 €"
+58,"44,5",3.0,homme,non,nord-est,31368.05
+58,22.7,3.0,femme,non,nord-ouest,30456.52
+46,28.7,3.0,homme,oui,,44279.37
+22,30.0,2.0,femme,non,nord-ouest,18855.31
+46,26.4,3.0,homme,oui,sud-ouest,47228.91
+47,34.2,1.0,femme,non,sud-est,21091.71
+54,29.3,0.0,homme,non,nord-est,16271.5
+33,4.2,3.0,homme,non,,"16,949.47 €"
+22,22.7,0.0,femme,oui,sud-est,35976.75
+53,35.3,4.0,homme,oui,sud-ouest,49027.8
+35,29.2,3.0,homme,1,nord-ouest,17626.66
+62,29.4,2.0,homme,non,sud-est,"24,373.94 €"
+23,30.9,,homme,non,sud-est,15782.99
+49,26.5,3.0,homme,non,nord-est,24007.66
+25,40.0,0.0,femme,non,sud-ouest,18806.28
+38,25.9,2.0,femme,non,sud-est,20362.75
+54,,2.0,homme,non,sud-ouest,24015.38
+40,31.9,3.0,homme,non,sud-est,25976.99
+35,25.5,2.0,homme,non,nord-est,21953.86
+22,17.2,4.0,femme,0,nord-est,11535.24
+52,30.7,2.0,femme,non,nord-est,30722.16
+44 ans,23.1,4.0,homme,0,nord-est,20418.13
+31,31.6,0.0,femme,non,nord-ouest,20049.61
+18,37.0,,homme,non,nord-est,14084.09
+27,,3.0,homme,non,sud-est,24174.31
+49,29.8,0.0,homme,non,nord-est,"21,895.98 €"
+22,,0.0,homme,oui,sud-est,"31,419.61 €"
+38,"28,2",,femme,non,nord-ouest,"21,494.34 €"
+55,31.7,4.0,homme,non,Nord Ouest,23926.69
+25 ans,35.1,3.0,homme,non,nord-est,11488.22
+56,24.9,3.0,homme,oui,nord-ouest,45702.31
+19,28.4,3.0,homme,non,nord-est,14741.95
+58,30.9,3.0,homme,oui,nord-est,45403.38
+56,24.5,0.0,femme,non,sud-ouest,22653.19
+28,25.4,3.0,femme,NON,nord-est,16386.32
+63,26.4,4.0,homme,non,,27390.1
+59,,4.0,femme,non,nord-ouest,"26,767.17 €"
+31,"37,3",3.0,homme,non,sud-ouest,16564.23
+31,"37,3",3.0,homme,non,sud-ouest,16564.23
+25,"31,9",2.0,homme,non,sud-est,25548.76
+37,28.8,0.0,femme,non,sud-est,21362.3
+50 ans,29.0,1.0,femme,non,Nord Ouest,23091.26
+55,30.5,3.0,Homme,non,sud-est,23120.03
+40,23.9,1.0,femme,non,nord-ouest,19711.96
+34,,1.0,femme,non,nord-est,12180.04
+26,,4.0,femme,non,sud-ouest,19003.81
+39 ans,26.7,4.0,femme,oui,nord-est,44485.8
+54,22.8,3.0,femme,non,nord-est,23471.95
+33,30.8,2.0,homme,oui,sud-ouest,41638.66
