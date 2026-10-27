@@ -64,6 +64,8 @@ Exercices réalisés dans le cadre de ma formation en data science : Python, ana
 
 | Identifier et corriger le surapprentissage (CIFAR-10) | \[surapprentissage\_cifar10.py](surapprentissage\_cifar10.py), \[analyse](reponses\_surapprentissage.md) |
 
+| Transfert d'apprentissage avec VGG16 (CIFAR-10) | \[transfert\_vgg16.py](transfert\_vgg16.py), \[analyse](reponses\_transfert\_vgg16.md) |
+
 
 
 \## Exécution
